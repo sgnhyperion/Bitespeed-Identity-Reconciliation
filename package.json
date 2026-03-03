@@ -21,7 +21,9 @@
   "homepage": "https://github.com/sgnhyperion/Bitespeed-Identity-Reconciliation#readme",
   "description": "",
   "dependencies": {
-    "express": "^5.2.1"
+    "@prisma/client": "^6.19.2",
+    "express": "^5.2.1",
+    "prisma": "^6.19.2"
   },
   "devDependencies": {
     "@types/express": "^5.0.6",
